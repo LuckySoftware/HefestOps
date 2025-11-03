@@ -1,5 +1,7 @@
 # Server Management Scripts Suite
 
+![hefestoopslogo](https://github.com/user-attachments/assets/45a285c5-fe49-462a-bc7e-e32fd582c9a1)
+
 A comprehensive collection of Bash scripts for Fedora Server 42 system administration, featuring both CLI and TUI (Text User Interface) modes for user-friendly server management.
 
 ## 📋 Table of Contents
